@@ -548,6 +548,7 @@ menu_options = {
   warmth_colors = "  COULEURS CHAUDES  ",
   wage_increase = " AUGMENTATION DE SALAIRE ",
   twentyfour_hour_clock = " HORLOGE 24 HEURES ",
+  capture_mouse = " CAPTURER LA SOURIS ",
 }
 
 menu_options_game_speed = {
@@ -823,6 +824,7 @@ options_window = {
   audio = "Audio Global",
   folder = "Dossier",
   customise = "Personnaliser",
+  capture_mouse = "Capturer la souris",
 }
 
 tooltip.options_window = {
@@ -843,6 +845,7 @@ tooltip.options_window = {
   audio_toggle = "Activer ou désactiver",
   folder_button = "Dossier des paramètres",
   customise_button = "Paramètres supplémentaires qui peuvent être modifiés pour personnaliser votre expérience de jeu",
+  capture_mouse = "Cliquez pour activer la capture du curseur dans la fenêtre de jeu".
 }
 
 customise_window = {
